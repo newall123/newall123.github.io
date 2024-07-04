@@ -19,7 +19,7 @@ redirect_from:
 
 I am CHEN Xinquan, from Fujian, China. I was awarded by PolyU Presidential PhD Fellowship Scheme at the end of 2022. Now I am a year-2 PhD candidate. In addition, I am also a current PolyU graduate school ambassador.
 My research interest includes power system control, stability, and protection, IBR-dominated system, and HVDC transmission system. I’ve published 4 JCR Q1 papers  with total <a href='https://scholar.google.com/citations?user=nQiaj-gAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a>. During my PhD period, I have three journal papers under review and one conference paper accepted now. I am also a reviewer in many IEEE journals. My major awards include two Chinese national scholarships and a Finalist in mathematical contest modeling.
-
+I am familiar with electromagnetic transient (EMT) modeling and mathmatical modeling for electrical and electronic engineering.
 
 
 # 🔥 News
@@ -32,16 +32,15 @@ My research interest includes power system control, stability, and protection, I
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICoPESA 2024</div><img src='images/Poster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Impacts of Grid-Forming Converters on Distance Protection During Unbalanced Faults]
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xinquan Chen**, Xue Tao, Ilhan Kocar
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Short Circuit Phasor Model of Grid Forming Inverter with Virtual Impedance Control. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2022.10* PolyU Presidential PhD Fellowship Scheme.
