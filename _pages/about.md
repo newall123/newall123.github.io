@@ -23,8 +23,8 @@ My research interest includes power system control, stability, and protection, I
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*: &nbsp;🎉🎉 Establish the personal website. 
+- *2024.01*: &nbsp;🎉🎉 Happy new year! 
 
 # 📝 Publications 
 
