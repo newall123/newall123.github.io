@@ -44,9 +44,11 @@ My research interest includes power system control, stability, and protection, I
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2022.10* PolyU Presidential PhD Fellowship Scheme.
+- *2020.12* National Scholarship for Postgraduate/Graduate students.
+- *2019.12* National Scholarship for Postgraduate/Graduate students.
+- *2018.08* Third prize in National University Social Practice and Science Contest on Energy Saving and Emission Reduction.
+- *2017.04* Finalist in 2017 Mathematical Contest In Modeling. 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
