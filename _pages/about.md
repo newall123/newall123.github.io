@@ -32,16 +32,20 @@ I am familiar with electromagnetic transient (EMT) modeling and mathmatical mode
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICoPESA 2024</div><img src='images/Poster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Impacts of Grid-Forming Converters on Distance Protection During Unbalanced Faults]
+**Impacts of Grid-Forming Converters on Distance Protection During Unbalanced Faults**
 
 **Xinquan Chen**, Xue Tao, Ilhan Kocar
 
-[**Project**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Short Circuit Phasor Model of Grid Forming Inverter with Virtual Impedance Control. 
 </div>
 </div>
 
-
+- [A Convolution Power-based Protection Scheme for Hybrid Multiterminal HVDC Transmission Systems](https://ieeexplore.ieee.org/document/9023987), Xinquan Chen, H. Li, G. Wang, et.al, **IEEE Journal of Emerging and Selected Topics in Power Electronics**.
+- [A protection scheme for hybrid multi-terminal HVDC networks utilizing a time-domain transient voltage based on fault-blocking converters](https://www.sciencedirect.com/science/article/abs/pii/S0142061519334866), Xinquan Chen, H. Li, Y. Liang, et.al, **International Journal of Electrical Power & Energy Systems**.
+- [Parameter optimization design method for a fast-switch-based fault current limiter and circuit breaker](https://www.sciencedirect.com/science/article/abs/pii/S0142061518333660), Xinquan Chen, Y. Liang, G. Wang, et.al, **International Journal of Electrical Power & Energy Systems**.
+- [A control parameter analysis method based on a transfer function matrix of hybrid multi-terminal HVDC system with flexible adaptability for different operation modes](https://www.sciencedirect.com/science/article/abs/pii/S0142061519312049), Xinquan Chen, Y. Liang, G. Wang, et.al, **International Journal of Electrical Power & Energy Systems**.
+  
 # 🎖 Honors and Awards
 - *2022.10* PolyU Presidential PhD Fellowship Scheme.
 - *2020.12* National Scholarship for Postgraduate/Graduate students.
@@ -49,12 +53,12 @@ I am familiar with electromagnetic transient (EMT) modeling and mathmatical mode
 - *2018.08* Third prize in National University Social Practice and Science Contest on Energy Saving and Emission Reduction.
 - *2017.04* Finalist in 2017 Mathematical Contest In Modeling. 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2022 - now*, PhD in The Hong Kong Polytechnic University. 
+- *2018 - 2021*, M.E. in South China University of Technology. 
+- *2014 - 2018*, B.E. in South China University of Technology.
+  
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- Will be updated soon.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021 - 2022*, State Grid, China.
