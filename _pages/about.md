@@ -51,7 +51,8 @@ I am familiar with electromagnetic transient (EMT) modeling and mathmatical mode
 - *2020.12* National Scholarship for Postgraduate/Graduate students.
 - *2019.12* National Scholarship for Postgraduate/Graduate students.
 - *2018.08* Third prize in National University Social Practice and Science Contest on Energy Saving and Emission Reduction.
-- *2017.04* Finalist in 2017 Mathematical Contest In Modeling. 
+- *2017.04* Finalist in 2017 Mathematical Contest In Modeling.
+  
 # 📖 Educations
 - *2022 - now*, PhD in The Hong Kong Polytechnic University. 
 - *2018 - 2021*, M.E. in South China University of Technology. 
