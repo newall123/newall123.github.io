@@ -23,8 +23,9 @@ My research interest includes power system control, stability, and protection, I
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Establish the personal website. 
-- *2024.01*: &nbsp;🎉🎉 Happy new year! 
+- *2024.07*: &nbsp;🎉🎉 Establish the personal website.
+- *2024.06*: &nbsp;🎉🎉 Become a graduate school ambassador.   
+- *2024.01*: &nbsp;🎉🎉 Happy New Year! 
 
 # 📝 Publications 
 
