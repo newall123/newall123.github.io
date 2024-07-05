@@ -34,7 +34,7 @@ I am familiar with electromagnetic transient (EMT) modeling and mathmatical mode
 
 **Impacts of Grid-Forming Converters on Distance Protection During Unbalanced Faults**
 
-**Xinquan Chen**, Xue Tao, Ilhan Kocar
+**Xinquan Chen**, Tao Xue, Ilhan Kocar
 
 **Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Short Circuit Phasor Model of Grid Forming Inverter with Virtual Impedance Control. (I.Kocar, Z.Yang, Z.Javid, **X.Chen**)
