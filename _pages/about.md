@@ -64,5 +64,15 @@ I am familiar with electromagnetic transient (EMT) modeling and mathmatical mode
 # 💻 Internships
 - *2021 - 2022*, State Grid, China.
 
+# 🌐 My favorite websites for research
+- [IEEE_Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
+- [ScienceDirect](https://www.sciencedirect.com/)  
+- [PES](https://mc.manuscriptcentral.com/tec-pes)
+- [MPCE](https://mc03.manuscriptcentral.com/mpce)
+- [Mathwork](https://www.mathworks.com/matlabcentral/fileexchange/)
+- [Github](https://github.com/)
+- [EMTP](https://www.emtp.com/)
+- [My_PolyU](https://portal.polyu.edu.hk/)
+  
 # 😊 Visitor
 ![Visitor Count](https://profile-counter.glitch.me/newall123/count.svg)
