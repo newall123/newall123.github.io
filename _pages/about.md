@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am CHEN Xinquan, from Fujian, China. Now I am a year-2 PhD candidate. In addition, I am also a current PolyU graduate school ambassador.
-My research interest includes power system control, stability, and protection, IBR-dominated system, and HVDC transmission system. {%I’ve published 4 JCR Q1 papers  with total <a href='https://scholar.google.com/citations?user=nQiaj-gAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a>. During my PhD period, I have three journal papers under review and one conference paper accepted now. I am also a reviewer in many IEEE journals. My major awards include two Chinese national scholarships and a Finalist in mathematical contest modeling.%}
+My research interest includes power system control, stability, and protection, IBR-dominated system, and HVDC transmission system. 
 I am familiar with electromagnetic transient (EMT) modeling and mathmatical modeling for electrical and electronic engineering.
 
 
