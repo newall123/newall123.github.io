@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am CHEN Xinquan, from Fujian, China. I was awarded by PolyU Presidential PhD Fellowship Scheme at the end of 2022. Now I am a year-2 PhD candidate. In addition, I am also a current PolyU graduate school ambassador.
+I am CHEN Xinquan, from Fujian, China. Now I am a year-2 PhD candidate. In addition, I am also a current PolyU graduate school ambassador.
 My research interest includes power system control, stability, and protection, IBR-dominated system, and HVDC transmission system. I’ve published 4 JCR Q1 papers  with total <a href='https://scholar.google.com/citations?user=nQiaj-gAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a>. During my PhD period, I have three journal papers under review and one conference paper accepted now. I am also a reviewer in many IEEE journals. My major awards include two Chinese national scholarships and a Finalist in mathematical contest modeling.
 I am familiar with electromagnetic transient (EMT) modeling and mathmatical modeling for electrical and electronic engineering.
 
@@ -47,9 +47,6 @@ I am familiar with electromagnetic transient (EMT) modeling and mathmatical mode
 - [A control parameter analysis method based on a transfer function matrix of hybrid multi-terminal HVDC system with flexible adaptability for different operation modes](https://www.sciencedirect.com/science/article/abs/pii/S0142061519312049), Xinquan Chen, Y. Liang, G. Wang, et.al, **International Journal of Electrical Power & Energy Systems**.
   
 # 🎖 Honors and Awards
-- *2022.10* PolyU Presidential PhD Fellowship Scheme.
-- *2020.12* National Scholarship for Postgraduate/Graduate students.
-- *2019.12* National Scholarship for Postgraduate/Graduate students.
 - *2018.08* Third prize in National University Social Practice and Science Contest on Energy Saving and Emission Reduction.
 - *2017.04* Finalist in 2017 Mathematical Contest In Modeling.
   
