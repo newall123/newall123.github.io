@@ -70,7 +70,7 @@ I am familiar with electromagnetic transient (EMT) modeling and mathmatical mode
 - [Github](https://github.com/)
 - [EMTP](https://www.emtp.com/)
 - [My_PolyU](https://portal.polyu.edu.hk/)
-- [Gen](https://portal.polyu.edu.hk/)
+- [Gen](https://genai.polyu.edu.hk/)
   
 # 😊 Visitor
 ![Visitor Count](https://profile-counter.glitch.me/newall123/count.svg)
