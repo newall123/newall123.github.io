@@ -61,7 +61,7 @@ I am familiar with electromagnetic transient (EMT) modeling and mathmatical mode
 # 💻 Internships
 - *2021 - 2022*, State Grid, China.
 
-# 🌐 My favorite websites for research
+# 🌐 Useful links for research
 - [IEEE_Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
 - [ScienceDirect](https://www.sciencedirect.com/)  
 - [PES](https://mc.manuscriptcentral.com/tec-pes)
