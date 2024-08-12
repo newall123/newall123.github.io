@@ -27,6 +27,9 @@ I am familiar with electromagnetic transient (EMT) modeling and mathmatical mode
 - *2024.06*: &nbsp;🎉🎉 Become a graduate school ambassador.   
 - *2024.01*: &nbsp;🎉🎉 Happy New Year! 
 
+# ⭐ My hobby
+
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICoPESA 2024</div><img src='images/Poster.png' alt="sym" width="100%"></div></div>
