@@ -69,6 +69,7 @@ I am familiar with electromagnetic transient (EMT) modeling and mathmatical mode
 - [ScienceDirect](https://www.sciencedirect.com/)  
 - [PES](https://mc.manuscriptcentral.com/tec-pes)
 - [MPCE](https://mc03.manuscriptcentral.com/mpce)
+- [pcmp](https://mc03.manuscriptcentral.com/pcmp)
 - [Mathwork](https://www.mathworks.com/matlabcentral/fileexchange/)
 - [Github](https://github.com/)
 - [EMTP](https://www.emtp.com/)
