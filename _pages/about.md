@@ -44,6 +44,7 @@ I am familiar with electromagnetic transient (EMT) modeling and mathmatical mode
 </div>
 </div>
 
+- [Grid-Forming Control of DFIG-based Wind Turbine Generator by Using Internal Voltage Vectors for Asymmetrical Fault Ride-Through](https://ieeexplore.ieee.org/document/10720396), Xinquan Chen, Y. Chang, I. Kocar, et.al, **IEEE Transactions on Energy Conversion**.
 - [A Convolution Power-based Protection Scheme for Hybrid Multiterminal HVDC Transmission Systems](https://ieeexplore.ieee.org/document/9023987), Xinquan Chen, H. Li, G. Wang, et.al, **IEEE Journal of Emerging and Selected Topics in Power Electronics**.
 - [A protection scheme for hybrid multi-terminal HVDC networks utilizing a time-domain transient voltage based on fault-blocking converters](https://www.sciencedirect.com/science/article/abs/pii/S0142061519334866), Xinquan Chen, H. Li, Y. Liang, et.al, **International Journal of Electrical Power & Energy Systems**.
 - [Parameter optimization design method for a fast-switch-based fault current limiter and circuit breaker](https://www.sciencedirect.com/science/article/abs/pii/S0142061518333660), Xinquan Chen, Y. Liang, G. Wang, et.al, **International Journal of Electrical Power & Energy Systems**.
