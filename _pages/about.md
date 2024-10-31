@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am CHEN Xinquan, from Fujian, China. Now I am a year-2 PhD candidate. In addition, I am also a current PolyU graduate school ambassador.
+I am CHEN Xinquan (陈鑫全), from Fujian, China. Now I am a year-2 PhD candidate. In addition, I am also a current PolyU graduate school ambassador.
 My research interest includes power system control, stability, and protection, IBR-dominated system, and HVDC transmission system. 
 I am familiar with electromagnetic transient (EMT) modeling and mathmatical modeling for electrical and electronic engineering.
 
