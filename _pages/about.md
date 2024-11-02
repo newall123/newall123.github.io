@@ -30,7 +30,6 @@ I am familiar with electromagnetic transient (EMT) modeling and mathmatical mode
 - *2024.01*: &nbsp;🎉🎉 Happy New Year! 
 
 # ⭐ My life
-<img src='images/202411.jpg' alt="sym" width="50%">
 
 # 📝 Publications 
 
