@@ -79,6 +79,7 @@ I am familiar with electromagnetic transient (EMT) modeling and mathmatical mode
 - [Gen](https://genai.polyu.edu.hk/)
 - [Web_of_science](https://www.webofscience.com/wos/woscc/basic-search)
 - [ocrid](https://orcid.org/)
+- [CNKI](https://www.lib.polyu.edu.hk/node/4054)
   
 # 😊 Visitor
 ![Visitor Count](https://profile-counter.glitch.me/newall123/count.svg)
