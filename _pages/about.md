@@ -36,8 +36,7 @@ I am familiar with electromagnetic transient (EMT) modeling and mathmatical mode
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICoPESA 2024</div><img src='images/Poster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Impacts of Grid-Forming Converters on Distance Protection During Unbalanced Faults**
-
+**[Impacts of Grid-Forming Converters on Distance Protection During Unbalanced Faults](https://ieeexplore.ieee.org/document/10743721)**
 **Xinquan Chen**, Tao Xue, Ilhan Kocar
 
 **Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
