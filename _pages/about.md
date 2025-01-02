@@ -69,10 +69,11 @@ I am familiar with electromagnetic transient (EMT) modeling and mathmatical mode
 # 🌐 Useful links for research
 - [IEEE_Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
 - [ScienceDirect](https://www.sciencedirect.com/)  
-- [PES](https://mc.manuscriptcentral.com/tsg-pes)
+- [S1 PES](https://mc.manuscriptcentral.com/tsg-pes)
 - [TIE](https://mc.manuscriptcentral.com/tie-ieee)
 - [IEEE portal](https://ieee.atyponrex.com/submission/dashboard?siteName=tsg-pes)
 - [jes](https://www.editorialmanager.com/est/Default.aspx?pg=login.asp%3floginError%3d1%26username%3dXinquanChen)
+- [epsr](https://www.editorialmanager.com/epsr/default.aspx)
 - [csee](https://mc03.manuscriptcentral.com/cjpes)
 - [MPCE](https://mc03.manuscriptcentral.com/mpce)
 - [pcmp](https://mc03.manuscriptcentral.com/pcmp)
