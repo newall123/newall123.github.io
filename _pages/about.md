@@ -23,6 +23,7 @@ I am familiar with electromagnetic transient (EMT) modeling and mathmatical mode
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 2nd publication in my PhD study.
 - *2024.09*: &nbsp;🎉🎉 1st publication in my PhD study.
 - *2024.07*: &nbsp;🎉🎉 Establish the personal website.
 - *2024.06*: &nbsp;🎉🎉 1st international conference.
@@ -32,6 +33,9 @@ I am familiar with electromagnetic transient (EMT) modeling and mathmatical mode
 # ⭐ My life
 
 # 📝 Publications 
+
+<a href="username.github.io/folder/document.pdf" target=" blank">PDF.</a>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICoPESA 2024</div><img src='images/Poster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
