@@ -34,7 +34,7 @@ I am familiar with electromagnetic transient (EMT) modeling and mathmatical mode
 
 # 📝 Publications 
 
-<a href="username.github.io/folder/document.pdf" target=" blank">PDF.</a>
+<a href="newall123.github.io/images/DPSP_PPT_1127.pdf" target=" blank">PDF.</a>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICoPESA 2024</div><img src='images/Poster.png' alt="sym" width="100%"></div></div>
