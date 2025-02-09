@@ -82,7 +82,6 @@ The IET’s International conference series: Developments in Power System Protec
 - [jes](https://www.editorialmanager.com/est/Default.aspx?pg=login.asp%3floginError%3d1%26username%3dXinquanChen)
 - [epsr](https://www.editorialmanager.com/epsr/default.aspx)
 - [csee](https://mc03.manuscriptcentral.com/cjpes)
-- [MPCE](https://mc03.manuscriptcentral.com/mpce)
 - [pcmp](https://mc03.manuscriptcentral.com/pcmp)
 - [Mathwork](https://www.mathworks.com/matlabcentral/fileexchange/)
 - [Github](https://github.com/)
