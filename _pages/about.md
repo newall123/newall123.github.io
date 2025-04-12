@@ -54,6 +54,7 @@ The IET’s International conference series: Developments in Power System Protec
 </div>
 
 - [AC and DC Interaction Analysis and Transient Control Strategy for Soft Open Points in Unbalanced Distribution Networks](https://ieeexplore.ieee.org/document/10856184), Xinquan Chen, Z. Huang, X. Yin, **IEEE Transactions on Smart Grid**.
+- [Comparative Analysis of Negative Sequence Behavior in Grid-Following and Grid-Forming Inverters: Modeling, Control, and Protection](https://ieeexplore.ieee.org/document/10960632), Xinquan Chen, I. Kocar, S. Bu, et.al, **IEEE Transactions on Power Delivery**.
 - [Grid-Forming Control of DFIG-based Wind Turbine Generator by Using Internal Voltage Vectors for Asymmetrical Fault Ride-Through](https://ieeexplore.ieee.org/document/10720396), Xinquan Chen, Y. Chang, I. Kocar, et.al, **IEEE Transactions on Energy Conversion**.
 - [A Convolution Power-based Protection Scheme for Hybrid Multiterminal HVDC Transmission Systems](https://ieeexplore.ieee.org/document/9023987), Xinquan Chen, H. Li, G. Wang, et.al, **IEEE Journal of Emerging and Selected Topics in Power Electronics**.
 - [A protection scheme for hybrid multi-terminal HVDC networks utilizing a time-domain transient voltage based on fault-blocking converters](https://www.sciencedirect.com/science/article/abs/pii/S0142061519334866), Xinquan Chen, H. Li, Y. Liang, et.al, **International Journal of Electrical Power & Energy Systems**.
