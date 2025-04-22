@@ -23,7 +23,6 @@ I am familiar with electromagnetic transient (EMT) modeling and mathmatical mode
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 4th publication in my PhD study.
 - *2025.04*: &nbsp;🎉🎉 4th acceptance in my PhD study.
 - *2025.03*: &nbsp;🎉🎉 3rd acceptance in my PhD study.
 - *2025.01*: &nbsp;🎉🎉 Happy New Year 2025! 
