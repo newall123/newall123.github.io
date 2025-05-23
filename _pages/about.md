@@ -23,8 +23,8 @@ I am familiar with electromagnetic transient (EMT) modeling and mathmatical mode
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 4th acceptance in my PhD study.
-- *2025.03*: &nbsp;🎉🎉 3rd acceptance in my PhD study.
+- *2025.05*: &nbsp;🎉🎉 4th publication in my PhD study.
+- *2025.03*: &nbsp;🎉🎉 3rd publication in my PhD study.
 - *2025.01*: &nbsp;🎉🎉 Happy New Year 2025! 
 - *2025.01*: &nbsp;🎉🎉 2nd publication in my PhD study.
 - *2025.01*: &nbsp;🎉🎉 2nd international conference.
@@ -55,6 +55,7 @@ The IET’s International conference series: Developments in Power System Protec
 - [AC and DC Interaction Analysis and Transient Control Strategy for Soft Open Points in Unbalanced Distribution Networks](https://ieeexplore.ieee.org/document/10856184), Xinquan Chen, Z. Huang, X. Yin, **IEEE Transactions on Smart Grid**.
 - [Comparative Analysis of Negative Sequence Behavior in Grid-Following and Grid-Forming Inverters: Modeling, Control, and Protection](https://ieeexplore.ieee.org/document/10960632), Xinquan Chen, I. Kocar, S. Bu, et.al, **IEEE Transactions on Power Delivery**.
 - [Grid-Forming Control of DFIG-based Wind Turbine Generator by Using Internal Voltage Vectors for Asymmetrical Fault Ride-Through](https://ieeexplore.ieee.org/document/10720396), Xinquan Chen, Y. Chang, I. Kocar, et.al, **IEEE Transactions on Energy Conversion**.
+- [Efficient, Robust and Comprehensive Fault Calculation of IBR-rich Systems Considering Diverse Controls](https://ieeexplore.ieee.org/document/11010136), Xinquan Chen, A. Haddadi, Z. Yang, et.al, **IEEE Open Access Journal of Power and Energy**.
 - [A Convolution Power-based Protection Scheme for Hybrid Multiterminal HVDC Transmission Systems](https://ieeexplore.ieee.org/document/9023987), Xinquan Chen, H. Li, G. Wang, et.al, **IEEE Journal of Emerging and Selected Topics in Power Electronics**.
 - [A protection scheme for hybrid multi-terminal HVDC networks utilizing a time-domain transient voltage based on fault-blocking converters](https://www.sciencedirect.com/science/article/abs/pii/S0142061519334866), Xinquan Chen, H. Li, Y. Liang, et.al, **International Journal of Electrical Power & Energy Systems**.
 - [Parameter optimization design method for a fast-switch-based fault current limiter and circuit breaker](https://www.sciencedirect.com/science/article/abs/pii/S0142061518333660), Xinquan Chen, Y. Liang, G. Wang, et.al, **International Journal of Electrical Power & Energy Systems**.
@@ -70,7 +71,7 @@ The IET’s International conference series: Developments in Power System Protec
 - *2014 - 2018*, B.E. in South China University of Technology.
   
 # 💬 Invited Talks
-- Will be updated soon.
+- Coming soon.
 
 # 💻 Internships
 - *2021 - 2022*, State Grid, China.
