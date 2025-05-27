@@ -43,9 +43,9 @@ The IET’s International conference series: Developments in Power System Protec
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICoPESA 2024</div><img src='images/Poster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[Impacts of Grid-Forming Converters on Distance Protection During Unbalanced Faults](https://ieeexplore.ieee.org/document/10743721)**
+[Impacts of Grid-Forming Converters on Distance Protection During Unbalanced Faults](https://ieeexplore.ieee.org/document/10743721)
 
-**Xinquan Chen**, Tao Xue, Ilhan Kocar
+Xinquan Chen, Tao Xue, Ilhan Kocar
 
 **Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Short Circuit Phasor Model of Grid Forming Inverter with Virtual Impedance Control. (I.Kocar, Z.Yang, Z.Javid, **X.Chen**)
