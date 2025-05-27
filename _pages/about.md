@@ -38,7 +38,7 @@ I am familiar with electromagnetic transient (EMT) modeling and mathmatical mode
 
 # 📝 Publications 
 The IET’s International conference series: Developments in Power System Protection (DPSP) 2025
-[Presentation](http://newall123.github.io/images/DPSP_PPT_1127.pdf)
+[Performance of distance protection under inverter-based resources with IEEE 2800 current injection requirements](https://ieeexplore.ieee.org/document/11014699)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICoPESA 2024</div><img src='images/Poster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
