@@ -53,7 +53,7 @@ Xinquan Chen, Siqi Bu, Aboutaleb Haddadi, Ilhan Kocar
 Xinquan Chen, Tao Xue, Ilhan Kocar
 
 **Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Short Circuit Phasor Model of Grid Forming Inverter with Virtual Impedance Control. (I.Kocar, Z.Yang, Z.Javid, **X.Chen**)
+- [Short Circuit Phasor Model of Grid Forming Inverter with Virtual Impedance Control](https://www.epri.com/research/products/000000003002030169) (I.Kocar, Z.Yang, Z.Javid, **X.Chen**)
 </div>
 </div>
 
