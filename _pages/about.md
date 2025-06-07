@@ -57,7 +57,7 @@ Xinquan Chen, Tao Xue, Ilhan Kocar
 </div>
 </div>
 
-- [Grid-Forming IBRs under Unbalanced Grid Conditions: Challenges, Solutions, and Prospects](https://ieeexplore.ieee.org/document/10856184), Xinquan Chen, S. Bu, I. Kocar, **IEEE Transactions on Sustainable Energy**.
+- [Grid-Forming IBRs under Unbalanced Grid Conditions: Challenges, Solutions, and Prospects](https://ieeexplore.ieee.org/document/11027640), Xinquan Chen, S. Bu, I. Kocar, **IEEE Transactions on Sustainable Energy**.
 - [AC and DC Interaction Analysis and Transient Control Strategy for Soft Open Points in Unbalanced Distribution Networks](https://ieeexplore.ieee.org/document/10856184), Xinquan Chen, Z. Huang, X. Yin, **IEEE Transactions on Smart Grid**.
 - [Comparative Analysis of Negative Sequence Behavior in Grid-Following and Grid-Forming Inverters: Modeling, Control, and Protection](https://ieeexplore.ieee.org/document/10960632), Xinquan Chen, I. Kocar, S. Bu, et.al, **IEEE Transactions on Power Delivery**.
 - [Grid-Forming Control of DFIG-based Wind Turbine Generator by Using Internal Voltage Vectors for Asymmetrical Fault Ride-Through](https://ieeexplore.ieee.org/document/10720396), Xinquan Chen, Y. Chang, I. Kocar, et.al, **IEEE Transactions on Energy Conversion**.
