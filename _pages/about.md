@@ -1,12 +1,4 @@
-![image](https://github.com/user-attachments/assets/77115d18-0f39-4d7b-be53-c3321148a3bd)---
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
