@@ -72,6 +72,9 @@ Xinquan Chen, Tao Xue, Ilhan Kocar
 - [A control parameter analysis method based on a transfer function matrix of hybrid multi-terminal HVDC system with flexible adaptability for different operation modes](https://www.sciencedirect.com/science/article/abs/pii/S0142061519312049), Xinquan Chen, Y. Liang, G. Wang, et.al, **International Journal of Electrical Power & Energy Systems**.
   
 # 🎖 Honors and Awards
+- *2023-2025* PolyU Presidential PhD Fellowship Scheme (PPPFS)
+- *2020.10* National Scholarship for Postgraduate/Graduate students
+- *2019.10* National Scholarship for Postgraduate/Graduate students
 - *2018.08* Third prize in National University Social Practice and Science Contest on Energy Saving and Emission Reduction.
 - *2017.04* Finalist in 2017 Mathematical Contest In Modeling.
   
