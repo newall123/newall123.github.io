@@ -39,7 +39,11 @@ I am familiar with electromagnetic transient (EMT) modeling and mathmatical mode
 # ⭐ My life
 
 # 📝 Publications 
-The IET’s International conference series: Developments in Power System Protection (DPSP) 2025
+16th International Conference on Power Systems Transients (IPST), 2025
+
+[Sustained Oscillations of Grid-forming lBRs under Unbalanced Perturbation: Modal Analysis and EMT Studies](https://github.com/newall123/newall123.github.io/blob/main/images/ipst25_GFM_unbalanced_dynamics.pdf)
+
+The IET’s International conference series: Developments in Power System Protection (DPSP), 2025
 
 [Performance of distance protection under inverter-based resources with IEEE 2800 current injection requirements](https://ieeexplore.ieee.org/document/11014699)
 
