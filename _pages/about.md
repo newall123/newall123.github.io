@@ -104,4 +104,4 @@ Xinquan Chen, Tao Xue, Ilhan Kocar
 - [CNKI](https://www.lib.polyu.edu.hk/node/4054)
   
 # 😊 Visitor
-[![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{USERNAME})](https://github.com/greenhandatsjtu/steins-gate-visitor-count)
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fnewall123.github.io%2F&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=)
