@@ -97,8 +97,6 @@ Xinquan Chen, Tao Xue, Ilhan Kocar
 - [Mathwork](https://www.mathworks.com/matlabcentral/fileexchange/)
 - [Github](https://github.com/)
 - [EMTP](https://www.emtp.com/)
-- [My_PolyU](https://portal.polyu.edu.hk/)
-- [Gen](https://genai.polyu.edu.hk/)
 - [Web_of_science](https://www.webofscience.com/wos/woscc/basic-search)
 - [ocrid](https://orcid.org/)
 - [CNKI](https://www.lib.polyu.edu.hk/node/4054)
