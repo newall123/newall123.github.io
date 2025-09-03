@@ -68,6 +68,7 @@ Xinquan Chen, Tao Xue, Ilhan Kocar
 - [Power Swing in Systems with Varying Penetration of Grid-forming IBRs: Protection and Dynamics](https://ieeexplore.ieee.org/document/11072533), Xinquan Chen, A. Haddadi, E. Farantatos, et.al, **Protection and Control of Modern Power Systems**
 - [Efficient, Robust and Comprehensive Fault Calculation of IBR-rich Systems Considering Diverse Controls](https://ieeexplore.ieee.org/document/11010136), Xinquan Chen, A. Haddadi, Z. Yang, et.al, **IEEE Open Access Journal of Power and Energy**.
 - [A Convolution Power-based Protection Scheme for Hybrid Multiterminal HVDC Transmission Systems](https://ieeexplore.ieee.org/document/9023987), Xinquan Chen, H. Li, G. Wang, et.al, **IEEE Journal of Emerging and Selected Topics in Power Electronics**.
+- [Control damping enhancement method of grid-forming battery energy storage system with diverse synchronization controls in asymmetrical grids](https://www.sciencedirect.com/science/article/pii/S2352152X25027410), Xinquan Chen, Z. Huang, X. Yin, Z. Liang, et.al, **Journal of Energy Storage**.
 - [A protection scheme for hybrid multi-terminal HVDC networks utilizing a time-domain transient voltage based on fault-blocking converters](https://www.sciencedirect.com/science/article/abs/pii/S0142061519334866), Xinquan Chen, H. Li, Y. Liang, et.al, **International Journal of Electrical Power & Energy Systems**.
 - [Parameter optimization design method for a fast-switch-based fault current limiter and circuit breaker](https://www.sciencedirect.com/science/article/abs/pii/S0142061518333660), Xinquan Chen, Y. Liang, G. Wang, et.al, **International Journal of Electrical Power & Energy Systems**.
 - [A control parameter analysis method based on a transfer function matrix of hybrid multi-terminal HVDC system with flexible adaptability for different operation modes](https://www.sciencedirect.com/science/article/abs/pii/S0142061519312049), Xinquan Chen, Y. Liang, G. Wang, et.al, **International Journal of Electrical Power & Energy Systems**.
@@ -100,6 +101,7 @@ Xinquan Chen, Tao Xue, Ilhan Kocar
 - [Web_of_science](https://www.webofscience.com/wos/woscc/basic-search)
 - [ocrid](https://orcid.org/)
 - [CNKI](https://www.lib.polyu.edu.hk/node/4054)
+- [outlook](https://outlook.office365.com/mail/)
   
 # 😊 Visitor
 ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fnewall123.github.io%2F&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=)
