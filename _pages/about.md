@@ -76,8 +76,10 @@ Xinquan Chen, Tao Xue, Ilhan Kocar
 
 **EPRI Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - [Short Circuit Phasor Model of Grid Forming Inverter with Virtual Impedance Control](https://www.epri.com/research/products/000000003002030169) I.Kocar, Z.Yang, Z.Javid, **X.Chen**
+</div>
+</div>
 
-
+**Journal Papers** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - [Grid-Forming IBRs under Unbalanced Grid Conditions: Challenges, Solutions, and Prospects](https://ieeexplore.ieee.org/document/11027640), Xinquan Chen, S. Bu, I. Kocar, **IEEE Transactions on Sustainable Energy**.
 - [AC and DC Interaction Analysis and Transient Control Strategy for Soft Open Points in Unbalanced Distribution Networks](https://ieeexplore.ieee.org/document/10856184), Xinquan Chen, Z. Huang, X. Yin, **IEEE Transactions on Smart Grid**.
 - [Comparative Analysis of Negative Sequence Behavior in Grid-Following and Grid-Forming Inverters: Modeling, Control, and Protection](https://ieeexplore.ieee.org/document/10960632), Xinquan Chen, I. Kocar, S. Bu, et.al, **IEEE Transactions on Power Delivery**.
