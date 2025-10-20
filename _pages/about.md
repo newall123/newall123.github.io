@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am CHEN Xinquan (陳鑫全), from Fujian, China. 
+I am CHEN Xinquan (陳鑫全), from Xiamen, China. 
 My research interest includes power system control, stability, and protection, IBR-dominated system, and HVDC transmission system. 
 I am familiar with electromagnetic transient (EMT) modeling and mathmatical modeling for electrical and electronic engineering.
 
