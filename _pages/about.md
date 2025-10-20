@@ -51,6 +51,8 @@ CIGRE 2025 International Symposium, Montreal, 2025
 
 Xinquan Chen, Ilhan Kocar, Aboutaleb Haddadi, Evangelos Farantatos
 
+</div>
+</div>
 
 16th International Conference on Power Systems Transients (IPST), 2025
 
