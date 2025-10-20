@@ -42,6 +42,7 @@ I am familiar with electromagnetic transient (EMT) modeling and mathmatical mode
 
 # 📝 Publications 
 
+CIGRE 2025 International Symposium, Montreal, 2025
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIGRE Canada 2025</div><img src='images/cigre-certificate.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -59,6 +60,8 @@ The IET’s International conference series: Developments in Power System Protec
 [Performance of distance protection under inverter-based resources with IEEE 2800 current injection requirements](https://ieeexplore.ieee.org/document/11014699)
 
 Xinquan Chen, Siqi Bu, Aboutaleb Haddadi, Ilhan Kocar
+
+2024 8th International Conference on Power Energy Systems and Applications (ICoPESA), Hong Kong, 2024
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICoPESA 2024</div><img src='images/Poster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
