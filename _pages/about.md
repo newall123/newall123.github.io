@@ -51,6 +51,7 @@ CIGRE 2025 International Symposium, Montreal, 2025
 
 Xinquan Chen, Ilhan Kocar, Aboutaleb Haddadi, Evangelos Farantatos
 
+
 16th International Conference on Power Systems Transients (IPST), 2025
 
 [Sustained Oscillations of Grid-forming lBRs under Unbalanced Perturbation: Modal Analysis and EMT Studies](https://github.com/newall123/newall123.github.io/blob/main/images/ipst25_GFM_unbalanced_dynamics.pdf)
@@ -69,11 +70,12 @@ Xinquan Chen, Siqi Bu, Aboutaleb Haddadi, Ilhan Kocar
 [Impacts of Grid-Forming Converters on Distance Protection During Unbalanced Faults](https://ieeexplore.ieee.org/document/10743721)
 
 Xinquan Chen, Tao Xue, Ilhan Kocar
+</div>
+</div>
 
-**Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**EPRI Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - [Short Circuit Phasor Model of Grid Forming Inverter with Virtual Impedance Control](https://www.epri.com/research/products/000000003002030169) I.Kocar, Z.Yang, Z.Javid, **X.Chen**
-</div>
-</div>
+
 
 - [Grid-Forming IBRs under Unbalanced Grid Conditions: Challenges, Solutions, and Prospects](https://ieeexplore.ieee.org/document/11027640), Xinquan Chen, S. Bu, I. Kocar, **IEEE Transactions on Sustainable Energy**.
 - [AC and DC Interaction Analysis and Transient Control Strategy for Soft Open Points in Unbalanced Distribution Networks](https://ieeexplore.ieee.org/document/10856184), Xinquan Chen, Z. Huang, X. Yin, **IEEE Transactions on Smart Grid**.
