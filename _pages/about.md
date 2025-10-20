@@ -50,7 +50,6 @@ CIGRE 2025 International Symposium, Montreal, 2025
 [Comparative Analysis of Virtual Impedance and  Current Saturation Methods for IBR Fault Current Limiting Against IEEE 2800 Requirements](https://www.conftool.org/cigre-ca-2025/index.php/IlhanKocar-Comparative_Analysis_of_Virtual_Impedance_and_Current_Saturation_Methods1209PS1_a.pdf?page=downloadPaper&filename=IlhanKocar-Comparative_Analysis_of_Virtual_Impedance_and_Current_Saturation_Methods1209PS1_a.pdf&form_id=10188&form_version=final#:~:text=This%20paper%20evaluates%20both%20CLM%20approaches%20against%20IEEE,Our%20analysis%20reveals%20distinct%20characteristics%20of%20each%20approach.)
 
 Xinquan Chen, Ilhan Kocar, Aboutaleb Haddadi, Evangelos Farantatos
-
 </div>
 </div>
 
