@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinquan Chen  Ph.D."
   avatar           : "images/MyPhoto2.jpg"
-  bio              : "Hong Kong PolyU"
-  location         : "Hong Kong SAR, China"
+  bio              : "National laboratory"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
