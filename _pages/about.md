@@ -41,6 +41,15 @@ I am familiar with electromagnetic transient (EMT) modeling and mathmatical mode
 # ⭐ My life
 
 # 📝 Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIGRE Canada 2025</div><img src='images/cigre-certificate.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Comparative Analysis of Virtual Impedance and  Current Saturation Methods for IBR Fault Current Limiting Against IEEE 2800 Requirements](https://www.conftool.org/cigre-ca-2025/index.php/IlhanKocar-Comparative_Analysis_of_Virtual_Impedance_and_Current_Saturation_Methods1209PS1_a.pdf?page=downloadPaper&filename=IlhanKocar-Comparative_Analysis_of_Virtual_Impedance_and_Current_Saturation_Methods1209PS1_a.pdf&form_id=10188&form_version=final#:~:text=This%20paper%20evaluates%20both%20CLM%20approaches%20against%20IEEE,Our%20analysis%20reveals%20distinct%20characteristics%20of%20each%20approach.)
+
+Xinquan Chen, Ilhan Kocar, Aboutaleb Haddadi, Evangelos Farantatos
+
 16th International Conference on Power Systems Transients (IPST), 2025
 
 [Sustained Oscillations of Grid-forming lBRs under Unbalanced Perturbation: Modal Analysis and EMT Studies](https://github.com/newall123/newall123.github.io/blob/main/images/ipst25_GFM_unbalanced_dynamics.pdf)
